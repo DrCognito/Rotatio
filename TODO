@@ -1,0 +1,17 @@
+Video Capture:
+  ☐ Grab screen @started(18-01-16 01:27)
+  Test using PIL or MSS
+  MSS seems to achieve 30fps on a pure video.
+  ☐ Record clips?
+  ☐ Test in-situ processing
+Mouse Movement:
+  ☐ Investigate the mouse sensitivity exporter
+  ☐ Understand different movement options
+  ☐ Work on a reasonable default
+  ☐ Decide a scale target, 30cm/360 @ 800 dpi?
+Movement detection:
+  ☐ Try simple image matching.
+  ☐ Investigate more complex movement detection.
+  ☐ Try edge detection algos.
+Todo:
+  ☐ Item
