@@ -9,6 +9,9 @@ name = "pypi"
 
 opencv-contrib-python = "*"
 "flake8" = "*"
+mss = "*"
+numpy = "*"
+opencv-python = "*"
 
 
 [dev-packages]
